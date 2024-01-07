@@ -1,0 +1,14 @@
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\bin\Debug\net8.0\Bank.Transfer.exe
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\bin\Debug\net8.0\Bank.Transfer.deps.json
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\bin\Debug\net8.0\Bank.Transfer.runtimeconfig.json
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\bin\Debug\net8.0\Bank.Transfer.dll
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\bin\Debug\net8.0\Bank.Transfer.pdb
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\obj\Debug\net8.0\Bank.Transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\obj\Debug\net8.0\Bank.Transfer.AssemblyInfoInputs.cache
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\obj\Debug\net8.0\Bank.Transfer.AssemblyInfo.cs
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\obj\Debug\net8.0\Bank.Transfer.csproj.CoreCompileInputs.cache
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\obj\Debug\net8.0\Bank.Transfer.dll
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\obj\Debug\net8.0\refint\Bank.Transfer.dll
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\obj\Debug\net8.0\Bank.Transfer.pdb
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\obj\Debug\net8.0\Bank.Transfer.genruntimeconfig.cache
+C:\Users\mikec\OneDrive\Videos\Desktop\Projetos GitHub\Bank Transfer\Bank.Transfer\obj\Debug\net8.0\ref\Bank.Transfer.dll

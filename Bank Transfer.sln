@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank.Transfer", "Bank.Transfer\Bank.Transfer.csproj", "{66ECFDEC-B8D5-4E5D-BAB8-C6536014CA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66ECFDEC-B8D5-4E5D-BAB8-C6536014CA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66ECFDEC-B8D5-4E5D-BAB8-C6536014CA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66ECFDEC-B8D5-4E5D-BAB8-C6536014CA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66ECFDEC-B8D5-4E5D-BAB8-C6536014CA49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7280B9D-6040-439D-A1E8-7AD817A3C61B}
+	EndGlobalSection
+EndGlobal
